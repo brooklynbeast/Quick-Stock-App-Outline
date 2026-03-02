@@ -149,3 +149,15 @@ Repository created for project development.<img width="843" height="1767" alt="5
 <img width="843" height="1767" alt="3" src="https://github.com/user-attachments/assets/c8f01a3d-e53b-4a6c-9370-724fbd383794" />
 <img width="843" height="1767" alt="2" src="https://github.com/user-attachments/assets/da4e24f4-d2c5-4f9b-bb45-b198c242f039" />
 <img width="843" height="1767" alt="1" src="https://github.com/user-attachments/assets/8ba2808c-fc6a-4b30-a917-49dcd450eaba" />
+Version Changelog
+
+Version 1.0 – Initial Outline Submission
+Defined project concept and identified business problem
+Selected Android development platform and tools
+Created initial wireframes and workflow structure
+
+Version 2.0 – Module 5 Update
+Refined navigation structure and user interface layout
+Expanded low stock alert functionality planning
+Improved project documentation and README clarity
+Aligned GitHub repository and Wiki with updated outline
