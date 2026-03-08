@@ -160,7 +160,11 @@ Displays the application title and login form.
 - App title (Quick Stock)  
 - Employee ID input field  
 - Password input field  
-- Login button  
+- Login button
+**Screenshot of Login Screen:**  
+<img width="843" height="1767" alt="1" src="https://github.com/user-attachments/assets/ccc864f6-98c9-4120-b058-cf88e1981ad2" />
+
+---
 
 #### Dashboard Screen  
 Provides access to the main application features.
@@ -170,7 +174,12 @@ Provides access to the main application features.
 - View Alerts button  
 - Inventory Categories  
 - Settings menu  
-- Last updated timestamp  
+- Last updated timestamp
+
+**Screenshot of Dashboard Screen:**
+<img width="843" height="1767" alt="2" src="https://github.com/user-attachments/assets/59e4c73c-cfd7-4c65-9eac-f4ca0b2cd803" />
+
+---
 
 #### Spot Check Screen  
 Allows users to update inventory quickly.
@@ -184,18 +193,36 @@ Allows users to update inventory quickly.
 - Item list  
 - Quantity input fields  
 - Low stock indicators  
-- Submit update button  
+- Submit update button
+
+*<img width="843" height="1767" alt="3" src="https://github.com/user-attachments/assets/929d62a8-971e-4915-9cbe-1c603cac3bcd" />
+*Screenshot of Spot Check Screen:**
 
 #### Low Stock Alert Screen  
 Displays items that require attention.
 
 **Components include:**  
-- Inventory status list  
+- Inventory status listå
 - Red indicator for critical items  
 - Yellow indicator for low items  
-- Mark as reviewed button  
+- Mark as reviewed button
 
-## VII. Future Enhancements
+**Screenshot of Low Stock Alert Screen:** 
+<img width="843" height="1767" alt="4" src="https://github.com/user-attachments/assets/e75f1c18-3596-4e2b-8afb-369e815f5e5c" />
+
+#### Navigation Layout
+Shows the bottom navigation structure used for quick access between screens.
+
+**Components include:**
+- Home
+- Check
+- Alerts
+- History
+
+**Screenshot of Navigation Layout:**
+<img width="843" height="1767" alt="5" src="https://github.com/user-attachments/assets/9766adb6-afe3-4ed0-9140-ba15c357a235" />
+
+## VII. Future Enhancementså
 
 Future versions of the Quick Stock application may include additional functionality such as:  
 - Barcode scanning for faster inventory entry  
